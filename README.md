@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Abdul Haseeb Shah</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+Hi! My name is Abdul Haseeb 😄
+========================================================================================================================================
 
-<!--- 📝 I regularly write articles on [https://www.dailywebcoding.xyz/](https://www.dailywebcoding.xyz/) --->
+🌍  I am a Front-End Developer from India
+<br/>
 
-- 💬 Ask me about **React, Next.js**
+### Skills
 
-- 📫 How to reach me **haseebwe5@gmail.com**
-- ⚡ Youtube [https://www.youtube.com/c/_DevAbdul](https://www.youtube.com/@_DevAbdul)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
 
-[![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhaseebshah&show_icons=true&theme=radical)](https://github.com/abdulhaseebshah/github-readme-stats)
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
