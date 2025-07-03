@@ -6,11 +6,10 @@ https://github.com/abdulhaseebshah/portfolio
 
 ## Languages & Tools
 
-- JavaScript  
-- TypeScript  
+- JavaScript    
 - React.js  
-- Next.js  
+- Next.js
+- TypeScript
 - React Router  
-- Redux  
 - HTML & CSS  
 - Tailwind CSS
