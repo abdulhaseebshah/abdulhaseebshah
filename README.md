@@ -1,15 +1,30 @@
-# Hello, I'm Abdul Haseeb 💙
+\# Hello, I'm Abdul Haseeb 💙
 
-I'm a self-taught and enthusiastic frontend developer with a focus on building clean and accessible user interfaces. I'm currently learning TypeScript and working on my personal portfolio using Next.js and Aceternity UI:
 
-https://github.com/abdulhaseebshah/portfolio
 
-## Languages & Tools
+I'm a self-taught and enthusiastic frontend developer with a focus on building clean and accessible user interfaces. I'm currently learning TypeScript.
 
-- JavaScript    
-- React.js  
-- Next.js
-- TypeScript
-- React Router  
-- HTML & CSS  
-- Tailwind CSS
+
+
+You can visit my portfolio to learn more about me and the projects I've been working on: https://abdulhaseebshah.vercel.app/
+
+
+
+\## Languages \& Tools
+
+
+
+\- JavaScript    
+
+\- React.js  
+
+\- Next.js
+
+\- TypeScript
+
+\- React Router  
+
+\- HTML \& CSS  
+
+\- Tailwind CSS
+
