@@ -10,4 +10,4 @@ You can visit my portfolio to learn more about me and the projects I've been wor
 - React Router
 - HTML
 - CSS
-- Tailwind CSS
+- Tailwind
